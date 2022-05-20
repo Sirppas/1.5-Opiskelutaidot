@@ -61,6 +61,12 @@
     margin-left: auto;
     margin-right: auto;
   } 
+  .column {
+    width: 50%;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 3px;
+  }
   .footer {
     position: fixed;
     left: 0;
