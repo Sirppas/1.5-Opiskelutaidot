@@ -54,15 +54,13 @@
     padding-left: 110px;
   }
   .row {
-    margin-top: 20px;
-    margin-bottom: 3px;
     display: flex;
     justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
-  } 
+  }
   .column {
-    width: 33%;
+    float: left;
+    width: 50%;
+    padding: 5px;
   }
   .footer {
     position: fixed;
