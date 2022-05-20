@@ -53,15 +53,6 @@
     padding-right: 110px;
     padding-left: 110px;
   }
-  .row {
-    display: flex;
-    justify-content: center;
-  }
-  .column {
-    float: center;
-    width: 50%;
-    padding: 5px;
-  }
   .footer {
     position: fixed;
     left: 0;
@@ -73,4 +64,7 @@
     margin-top: 0px;
     margin-bottom: -10px;
     font-size: 12px;
+  }
+  .img {
+    text-align: center;
   }
